@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parallaxone{
+    width: 100%;
+    height: 600px;
+    background-image: url(p1/mountains.webp);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.parallaxone h2{
+    position: relative;
+    left: 700px;
+    top: 300px;
+    width: 110px;
+    height: 30px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.parallaxtwo{
+    width: 100%;
+    height: 600px;
+    background-image: url(p1/beaches.jpeg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallaxtwo h2{
+    position: relative;
+    left: 700px;
+    top: 300px;
+    width: 100px;
+    height: 30px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.para{
+    width: 93%;
+    padding: 50px;
+    text-align: center;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
